@@ -51,7 +51,7 @@
 		],
 	};
 	let bio =
-		"I am a computer-scientist based in Germany. The main focus of my work is to create and maintain web applications. I am currently working for IBM on the Code Engine UI team. I am also working on my own projects, mainly the VTEC League Results System.";
+		"I am a computer-scientist based in Germany. The main focus of my work is to create and maintain web applications. I am currently working for IBM on the Code Engine UI team. I am also working on my own projects, mainly the VTEC League Results System. In my free time I am also a scout with the BdP-Group 'Graue Drachen Karben'.";
 
 	/**
 	 * -------------------- Project Section --------------------
