@@ -38,7 +38,6 @@
                     <h1 class="fw-bold text-primary">
                         {contact_title}
                     </h1>
-                    <h1 class="text-primary"><i class="far fa-envelope" /></h1>
                 </div>
                 <!-- Section title -->
 

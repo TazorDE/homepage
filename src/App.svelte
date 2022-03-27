@@ -78,6 +78,11 @@
 			"A collection of other projects I've worked on. Mainly projects for my bachelor's degree.",
 			"https://github.com/TazorDE",
 		],
+		[
+			"More Information",
+			"If you wish for more information on my projects and my work experience (CV), feel free to contact me directly.",
+			"#contact",
+		],
 	];
 	/**
 	 * -------------------- Contact Section --------------------
